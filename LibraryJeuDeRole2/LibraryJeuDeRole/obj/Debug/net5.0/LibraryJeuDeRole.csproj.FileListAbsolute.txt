@@ -1,0 +1,12 @@
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\bin\Debug\net5.0\LibraryJeuDeRole.deps.json
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\bin\Debug\net5.0\LibraryJeuDeRole.dll
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\bin\Debug\net5.0\ref\LibraryJeuDeRole.dll
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\bin\Debug\net5.0\LibraryJeuDeRole.pdb
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\obj\Debug\net5.0\LibraryJeuDeRole.csproj.AssemblyReference.cache
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\obj\Debug\net5.0\LibraryJeuDeRole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\obj\Debug\net5.0\LibraryJeuDeRole.AssemblyInfoInputs.cache
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\obj\Debug\net5.0\LibraryJeuDeRole.AssemblyInfo.cs
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\obj\Debug\net5.0\LibraryJeuDeRole.csproj.CoreCompileInputs.cache
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\obj\Debug\net5.0\LibraryJeuDeRole.dll
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\obj\Debug\net5.0\ref\LibraryJeuDeRole.dll
+C:\Users\SIO.BEAUFOQ\source\repos\LibraryJeuDeRole\LibraryJeuDeRole\obj\Debug\net5.0\LibraryJeuDeRole.pdb
